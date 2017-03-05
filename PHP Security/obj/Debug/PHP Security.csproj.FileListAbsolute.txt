@@ -1,0 +1,6 @@
+c:\users\alvaro\documents\visual studio 2013\Projects\PHP Security\PHP Security\bin\Debug\PHP Security.dll
+c:\users\alvaro\documents\visual studio 2013\Projects\PHP Security\PHP Security\bin\Debug\PHP Security.pdb
+C:\Users\Alvaro\documents\Proyectos Unity\PHP Security\Assets\Plugins\PHP Security.dll
+C:\Users\Alvaro\documents\Proyectos Unity\PHP Security\Assets\Plugins\PHP Security.pdb
+C:\Users\Alvaro\documents\visual studio 2013\Projects\PHP Security\PHP Security\obj\Debug\PHP Security.dll
+C:\Users\Alvaro\documents\visual studio 2013\Projects\PHP Security\PHP Security\obj\Debug\PHP Security.pdb
